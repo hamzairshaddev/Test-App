@@ -33,7 +33,8 @@ Go to http://localhost:8000, if your port is not 8000 use whatever port your com
 
 Queues:
 
-For emails to work, you can change the credentials in .env file. I am using mailtrap for testing purposes. You need to change email credentials if you want it to work.
+For emails to work, you can change the credentials in .env file of MAIL_USERNAME and MAIL_PASSWORD.
+I am using mailtrap for testing purposes. You need to change email credentials if you want it to work.
 
 Run the background queues using this command to send emails.
 
