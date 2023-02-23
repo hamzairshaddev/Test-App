@@ -1,0 +1,10 @@
+.mx-datepicker{
+    width: 100%;
+}
+.error{
+    color:red;
+}
+.bootstrap-select>.dropdown-toggle {
+    border: 1px solid;
+    color:black !important;
+}
