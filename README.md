@@ -31,9 +31,9 @@ php artisan serve
 
 Go to http://localhost:8000, if your port is not 8000 use whatever port your command line is showing.
 
-For emails to work, you can change the credentials in .env file. I am using mailtrap for testing purposes.
-
 Queues:
+
+For emails to work, you can change the credentials in .env file. I am using mailtrap for testing purposes. You need to change email credentials if you want it to work.
 
 Run the background queues using this command to send emails.
 
